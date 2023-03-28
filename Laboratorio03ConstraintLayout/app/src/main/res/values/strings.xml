@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratorio 03 - Constraint Layout</string>
+    <string name="cantidad_de_dinero">Cantidad de Dinero</string>
+    <string name="quantity">0</string>
+    <string name="_0_05">$0.05</string>
+    <string name="_0_10">$0.10</string>
+    <string name="_0_25">$0.25</string>
+    <string name="_1_00">$1.00</string>
+</resources>
