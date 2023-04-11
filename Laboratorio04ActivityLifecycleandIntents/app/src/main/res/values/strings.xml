@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Laboratorio 03 - Activity Lifecycle and Intents</string>
+    <string name="title">Rellena la siguiente Informacion</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="n_mero_de_telefono">Número de Telefono</string>
+    <string name="guardar">Guardar</string>
+    <string name="nombre_">Nombre</string>
+    <string name="filler">test</string>
+    <string name="correo_electr_nico_share">Correo Electrónico</string>
+    <string name="test_gmail_com">test@gmail.com</string>
+    <string name="n_mero_de_telefono_">Número de Telefono</string>
+    <string name="filler_25252525">25252525</string>
+    <string name="buttonshare">Compartir</string>
+    <string name="confirma_tu_informacion">Confirma tu Informacion</string>
+</resources>
