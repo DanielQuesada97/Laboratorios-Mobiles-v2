@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Laboratorio 05 - Navigation Component</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="starwars_synopsis">Anakin une fuerzas con Obi-Wan y libera a Palpatine de las malvadas garras del Conde Doku. Sin embargo, cae presa de los juegos mentales de Palpatine y los Jedi y cede a la tentación.</string>
+    <string name="new_movie">New Movie</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="submit">Submit</string>
+    <string name="_9_5">9.5</string>
+    <string name="harry_potter">Harry Potter y la Piedra\nFilosofal</string>
+    <string name="billboard">Billboard</string>
+    <string name="star_wars">Star Wars episodio 3:\nLa venganza de los Sith</string>
+    <string name="_9_8">9.8</string>
+    <string name="ciencia_ficcion">Ciencia Ficcion</string>
+    <string name="star_wars_episodio_3_la_venganza_de_los_sith">Star Wars episodio 3:La venganza de los Sith</string>
+</resources>
