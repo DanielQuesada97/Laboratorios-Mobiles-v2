@@ -11,12 +11,10 @@
             type="com.quesada.laboratorio05_navigationcomponent.ui.movie.viewmodel.MovieViewModel" />
     </data>
 
-
     <androidx.constraintlayout.widget.ConstraintLayout
         android:background="@color/backgroundLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
 
         <TextView
             android:id="@+id/billboardTextView"
@@ -54,6 +52,4 @@
             android:contentDescription="@string/todo" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
-
 </layout>
